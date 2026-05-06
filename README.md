@@ -4,21 +4,41 @@ A modern, fully responsive Flutter spend-tracking app built as a take-home assig
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-> Add your screenshots before pushing to GitHub.
+> Place your images inside a `screenshots/` folder and rename them properly.
+
+---
+
+### Home Screen
 
 <p align="center">
-  <img src="lib\screenshot\WhatsApp Image 2026-05-06 at 2.34.23 PM.jpeg" width="220" alt="Home Screen" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="lib\screenshot\WhatsApp Image 2026-05-06 at 2.34.23 PM (3).jpeg" width="220" alt="Category Filter" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="lib\screenshot\WhatsApp Image 2026-05-06 at 2.34.23 PM (1).jpeg" width="220" alt="Add Expense Sheet" />
+  <img src="lib\screenshot\home.jpeg" width="250" />
 </p>
 
+---
+
+### Category Filter Screen
+
 <p align="center">
-  <img src="lib\screenshot\WhatsApp Image 2026-05-06 at 2.34.24 PM.jpeg" width="220" alt="Transaction Detail" />
-  </p>
+  <img src="lib\screenshot\categories.jpeg" width="250" />
+</p>
+
+---
+
+### Add Expense Screen
+
+<p align="center">
+  <img src="lib\screenshot\add_expense.jpeg" width="250" />
+</p>
+
+---
+
+### Transaction Details Screen
+
+<p align="center">
+  <img src="lib\screenshot\transaction.jpeg" width="250" />
+</p>
 
 ---
 
@@ -36,7 +56,7 @@ A modern, fully responsive Flutter spend-tracking app built as a take-home assig
 
 ## Responsive Design — ScreenUtil
 
-Design baseline: 390 × 844 (iPhone 14 Pro)
+Design baseline: **390 × 844 (iPhone 14 Pro)**
 
 - `.w` → Width
 - `.h` → Height
@@ -49,6 +69,7 @@ No hardcoded values.
 
 ## Project Structure
 
+```
 lib/
 ├── models/
 ├── data/
@@ -56,6 +77,7 @@ lib/
 ├── theme/
 ├── screens/
 └── widgets/
+```
 
 ---
 
@@ -77,8 +99,10 @@ lib/
 
 ## Getting Started
 
-flutter pub get  
+```bash
+flutter pub get
 flutter run
+```
 
 ---
 
@@ -99,7 +123,7 @@ Used Claude and ChatGPT for:
 - Architecture validation
 - Minor wording improvements
 
-All development work done by me.
+All development work was done by me.
 
 ---
 
@@ -111,4 +135,11 @@ All development work done by me.
 
 ---
 
-Built as a take-home assignment.
+## Final
+
+Built as a take-home assignment focusing on:
+
+- Clean UI
+- Real-world architecture
+- Smooth UX
+- Scalable code
