@@ -9,18 +9,16 @@ A modern, fully responsive Flutter spend-tracking app built as a take-home assig
 > Add your screenshots before pushing to GitHub.
 
 <p align="center">
-  <img src="screenshots/home.png" width="220" alt="Home Screen" />
+  <img src="lib\screenshot\WhatsApp Image 2026-05-06 at 2.34.23 PM.jpeg" width="220" alt="Home Screen" />
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/categories.png" width="220" alt="Category Filter" />
+  <img src="lib\screenshot\WhatsApp Image 2026-05-06 at 2.34.23 PM (3).jpeg" width="220" alt="Category Filter" />
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/add_expense.png" width="220" alt="Add Expense Sheet" />
+  <img src="lib\screenshot\WhatsApp Image 2026-05-06 at 2.34.23 PM (1).jpeg" width="220" alt="Add Expense Sheet" />
 </p>
 
 <p align="center">
-  <img src="screenshots/transaction_detail.png" width="220" alt="Transaction Detail" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/filtered_list.png" width="220" alt="Filtered List" />
-</p>
+  <img src="lib\screenshot\WhatsApp Image 2026-05-06 at 2.34.23 PM.jpeg" width="220" alt="Transaction Detail" />
+  </p>
 
 ---
 
