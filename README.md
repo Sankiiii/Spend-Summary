@@ -17,7 +17,7 @@ A modern, fully responsive Flutter spend-tracking app built as a take-home assig
 </p>
 
 <p align="center">
-  <img src="lib\screenshot\WhatsApp Image 2026-05-06 at 2.34.23 PM.jpeg" width="220" alt="Transaction Detail" />
+  <img src="lib\screenshot\WhatsApp Image 2026-05-06 at 2.34.24 PM.jpeg" width="220" alt="Transaction Detail" />
   </p>
 
 ---
